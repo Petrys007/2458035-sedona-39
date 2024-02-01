@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Peter Belan](https://up.htmlacademy.ru/htmlcss/39/user/2458035).
-* Наставник: `Неизвестно`.
+* Наставник: [Ольга Ветер](https://htmlacademy.ru/profile/id73199).
 
 ---
 
