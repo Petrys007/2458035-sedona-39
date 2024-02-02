@@ -2,6 +2,7 @@
 
 * Студент: [Peter Belan](https://up.htmlacademy.ru/htmlcss/39/user/2458035).
 * Наставник: [Ольга Ветер](https://htmlacademy.ru/profile/id73199).
+* Сайт: [Проект Скдона](https://petrys007.github.io/2458035-sedona-39/)
 
 ---
 
